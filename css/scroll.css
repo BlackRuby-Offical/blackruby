@@ -24,9 +24,9 @@
     border-color: #087bfc;
     color: #0e7ffc;
 }
-.navbar-collapse::after {
-    /* background-color: #585454bf  !important; */
-}
+/* .navbar-collapse::after {
+    background-color: #585454bf  !important; 
+} */
 
 .illustration {
     position: absolute;
